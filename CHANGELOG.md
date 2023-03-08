@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://iThieler.github.io/Cloud/">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=iThieler&repo=Cloud1&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=iThieler&repo=Cloud&theme=dark" />
   </a>
 </p>
 
